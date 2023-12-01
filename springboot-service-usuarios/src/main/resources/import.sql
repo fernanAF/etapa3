@@ -1,0 +1,2 @@
+INSERT INTO usuarios(username, password, enabled, nombre, apellido, email) VALUES('AlanFdo', '12345', 1, 'Alan', 'Perez', 'alan.perezlp@uanl.edu.mx');
+INSERT INTO usuarios(username, password, enabled, nombre, apellido, email) VALUES('juanuchiha99', '12345', 1, 'Juan', 'Lopez', 'juanuchiha99@gmail.com');
